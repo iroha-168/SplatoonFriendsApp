@@ -16,4 +16,4 @@ jobs:
           java-version: 11
           distribution: 'zulu'
       - name: Distribute App
-        run: ./gradlew uploadDeployGate
+        run: ./gradlew uploadDeployGateDebug
