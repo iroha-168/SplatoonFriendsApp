@@ -46,6 +46,12 @@ android {
     }
 }
 
+deploygate {
+    // 認証情報
+    appOwnerName = "SplatoonFriendsApp"
+    apiToken = "9d02346d-d6d9-4d58-a787-0c8e953eabb3"
+}
+
 dependencies {
 
     implementation 'androidx.core:core-ktx:1.7.0'
