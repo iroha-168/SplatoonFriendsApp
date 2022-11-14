@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629221596941",
+    "project_id": "splatoonfriendsappdev",
+    "storage_bucket": "splatoonfriendsappdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629221596941:android:62023d7a3657c84dde9a44",
+        "android_client_info": {
+          "package_name": "com.mitchan.splatoonfriendsapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629221596941-fmgaer75q1kb1065o5ie6h7b90jt063o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo813m7oGXhCh7wtKXckDySIGoB0pwFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629221596941-fmgaer75q1kb1065o5ie6h7b90jt063o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
